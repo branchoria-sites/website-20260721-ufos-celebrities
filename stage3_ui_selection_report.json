@@ -1,0 +1,126 @@
+{
+  "selection_strategy": "shared-scorer",
+  "ui_priority": "home-first",
+  "site_shape": {
+    "report_count": 211,
+    "max_level": 3,
+    "deep_report_count": 180,
+    "level_1_count": 1,
+    "level_counts": {
+      "1": 1,
+      "2": 30,
+      "3": 180
+    },
+    "max_children_any_node": 30,
+    "p90_children": 6,
+    "p90_topic_children": 30,
+    "avg_children": 6.77,
+    "primary_branch_count": 30,
+    "visible_nodes_depth_2": 31,
+    "visible_nodes_depth_3": 211,
+    "max_depth": 2,
+    "max_breadth": 180,
+    "breadth_by_depth": {
+      "0": 1,
+      "1": 30,
+      "2": 180
+    },
+    "p90_title_length": 15,
+    "root_density_tier": "very-dense",
+    "top_branch_density_counts": {
+      "sparse": 0,
+      "balanced": 0,
+      "dense": 0,
+      "very-dense": 1
+    },
+    "long_title_branch_count": 0,
+    "single_root_tree": true,
+    "topic_labels": [
+      "When Fame Meets the UFO Mystery"
+    ]
+  },
+  "selected": {
+    "site_visual_identity": "signal-cobalt",
+    "site_visual_identity_source": "local_inference",
+    "site_visual_identity_confidence": "medium",
+    "visual_profile": "compact",
+    "layout_archetype": "compact-grid",
+    "home_layout_mode": "vertical",
+    "auto_home_layout_mode": "catalog",
+    "hierarchy_viz_mode": "hybrid",
+    "palette": "signal-cobalt",
+    "motif": "constellation"
+  },
+  "candidates": [
+    {
+      "profile": "compact",
+      "layout": "compact-grid",
+      "home_score": 64,
+      "article_score": 18,
+      "interaction_score": 13,
+      "score": 4000,
+      "reasons": [
+        "compact profile suits large hierarchies",
+        "compact-grid handles dense trees",
+        "compact-grid suits hybrid graph/list layout"
+      ]
+    },
+    {
+      "profile": "atlas",
+      "layout": "dossier",
+      "home_score": 40,
+      "article_score": 36,
+      "interaction_score": 16,
+      "score": 3400,
+      "reasons": [
+        "dossier improves dense article branches",
+        "single-root hierarchy benefits from clearer branch staging",
+        "atlas+dossier suits hybrid hierarchy"
+      ]
+    },
+    {
+      "profile": "compact",
+      "layout": "atlas",
+      "home_score": 52,
+      "article_score": 12,
+      "interaction_score": 13,
+      "score": 3220,
+      "reasons": [
+        "compact profile suits large hierarchies",
+        "single-root hierarchy benefits from clearer branch staging"
+      ]
+    },
+    {
+      "profile": "editorial",
+      "layout": "dossier",
+      "home_score": 24,
+      "article_score": 34,
+      "interaction_score": 14,
+      "score": 2500,
+      "reasons": [
+        "dossier improves dense article branches",
+        "single-root hierarchy benefits from clearer branch staging"
+      ]
+    },
+    {
+      "profile": "atlas",
+      "layout": "atlas",
+      "home_score": 24,
+      "article_score": 18,
+      "interaction_score": 16,
+      "score": 2060,
+      "reasons": [
+        "single-root hierarchy benefits from clearer branch staging"
+      ]
+    },
+    {
+      "profile": "editorial",
+      "layout": "magazine",
+      "home_score": 12,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 1360,
+      "reasons": []
+    }
+  ]
+}
