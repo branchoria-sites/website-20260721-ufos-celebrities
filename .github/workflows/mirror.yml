@@ -1,0 +1,40 @@
+name: Mirror UFO Celebrities site
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the existing public site
+        uses: actions/checkout@v4
+        with:
+          repository: branchoria-sites/website-20260629_093735-ufos-celebrities
+          ref: gh-pages
+          path: site
+
+      - name: Configure the additional custom domain
+        shell: bash
+        run: |
+          printf '%s\n' 'ufos-celebrities.branchoria.com' > site/CNAME
+          sed -i 's#https://celebrity-ufos.branchoria.com#https://ufos-celebrities.branchoria.com#g' site/_config.yml
+
+      - name: Publish the snapshot
+        shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          cd site
+          rm -rf .git
+          git init
+          git config user.name 'Phoenix Stage 4'
+          git config user.email 'actions@users.noreply.github.com'
+          git add -A
+          git commit -m 'Mirror refreshed UFO Celebrities site'
+          git branch -M gh-pages
+          git remote add origin "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push --force origin gh-pages
