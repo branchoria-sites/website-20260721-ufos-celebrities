@@ -4,7 +4,7 @@ title_full: Stigma Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ufos-and-celebrities-846269-celebrity/
+permalink: /ufos-and-celebrities-846269-celebrity-stigma/
 description: Focused pages that expand on Stigma.
 date: '2026'
 layout: default

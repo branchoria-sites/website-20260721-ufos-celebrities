@@ -4,7 +4,7 @@ title_full: Roundups Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ufos-and-celebrities-846269-celebrity/
+permalink: /ufos-and-celebrities-846269-celebrity-roundups/
 description: Focused pages that expand on Roundups.
 date: '2026'
 layout: default
