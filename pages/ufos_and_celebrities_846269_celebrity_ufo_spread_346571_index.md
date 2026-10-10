@@ -4,7 +4,7 @@ title_full: Story Spread Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /ufos-and-celebrities-846269-celebrity/
+permalink: /ufos-and-celebrities-846269-celebrity-story-spread/
 description: Focused pages that expand on Story Spread.
 date: '2026'
 layout: default
