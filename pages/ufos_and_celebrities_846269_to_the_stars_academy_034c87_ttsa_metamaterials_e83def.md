@@ -787,7 +787,6 @@ The episode therefore became less a demonstration of alien technology than a cas
 5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link:https://en.wikipedia.org/wiki/To_The_Stars_Inc  
 
 6.<a id="endnote-6"></a>
    Source: Wikipedia  

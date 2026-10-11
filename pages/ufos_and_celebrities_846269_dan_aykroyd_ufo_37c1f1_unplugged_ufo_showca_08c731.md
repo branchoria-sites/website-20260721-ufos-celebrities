@@ -742,7 +742,6 @@ That role distinguishes the documentary within the wider landscape of celebrity 
 
 3.<a id="endnote-3"></a>
    Source: netflix.com  
-   Link:https://www.netflix.com/title/70049805  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Dan Aykroyd Unplugged on UFOsDan Aykroyd Unplugged on UFOs. 2005; ⁨TV-PG⁩; Documentary. Spectacular... Documentary, UFO, Un...</p></details>
 
 4.<a id="endnote-4"></a>

@@ -767,7 +767,6 @@ For that reason, the Eglin case occupies an important middle ground. It shows th
 
 3.<a id="endnote-3"></a>
    Source: twz.com  
-   Link:https://www.twz.com/air/air-force-[pilots  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>“On 26 Jan 23, an [sic] USAF pilot...</p></details>
 
 4.<a id="endnote-4"></a>

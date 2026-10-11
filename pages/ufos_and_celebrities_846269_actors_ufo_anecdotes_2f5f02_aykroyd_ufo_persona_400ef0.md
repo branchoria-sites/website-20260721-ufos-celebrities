@@ -752,7 +752,6 @@ For readers examining UFO claims critically, Aykroyd's example is a reminder tha
 
 2.<a id="endnote-2"></a>
    Source: netflix.com  
-   Link:https://www.netflix.com/title/70049805  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Dan Aykroyd Unplugged on UFOsSpectacular eyewitness videos, interviews with experts and comedian Dan Aykroyd&#x27;s extensive kno...</p></details>
 
 3.<a id="endnote-3"></a>
