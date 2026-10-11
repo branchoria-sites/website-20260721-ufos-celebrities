@@ -297,7 +297,7 @@ The documentary also helped reinforce a pattern that would continue throughout A
 
 ## Celebrity confession versus UFO evidence
 
-One of the film's defining characteristics is its emphasis on personal conviction rather than original investigation. Aykroyd discusses reported sightings, famous UFO cases and accounts from military personnel alongside his own experiences and beliefs. The documentary presents these materials sympathetically, inviting viewers to see cumulative witness testimony as persuasive.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.netflix.com/title/70049805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[Netflix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-snippet">Watch Dan Aykroyd Unplugged on UFOsDan Aykroyd Unplugged on UFOs. 2005; ⁨TV-PG⁩; Documentary. Spectacular... Documentary, UFO, Un...</span></span></span>
+One of the film's defining characteristics is its emphasis on personal conviction rather than original investigation. Aykroyd discusses reported sightings, famous UFO cases and accounts from military personnel alongside his own experiences and beliefs. The documentary presents these materials sympathetically, inviting viewers to see cumulative witness testimony as persuasive.<span class="citation-link-wrap">[Netflix]<span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-snippet">Watch Dan Aykroyd Unplugged on UFOsDan Aykroyd Unplugged on UFOs. 2005; ⁨TV-PG⁩; Documentary. Spectacular... Documentary, UFO, Un...</span></span></span>
 
 However, the documentary itself contributes little in the way of independently verifiable new evidence. Much of its supporting material had circulated previously within UFO literature or [documentaries]({{ 'documentaries/' | relative_url }}), and critics argued that familiar footage and anecdotal accounts were presented without sufficiently examining competing explanations or evidential weaknesses. Reviews at the time described the interview with Aykroyd as engaging while questioning whether the surrounding documentary assembled a rigorous case for extraterrestrial visitation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rottentomatoes.com/m/dan_aykroyd_unplugged_on_ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rottentomatoes.com">[Rotten Tomatoes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rottentomatoes.com</span><span class="citation-popover-snippet">Rotten TomatoesDan Aykroyd: Unplugged on UFOsDiscover reviews, ratings, and trailers for Dan Aykroyd: Unplugged on UFOs on Rotten Tomatoe...</span></span></span>
 
@@ -317,7 +317,7 @@ Several features helped the interview remain memorable:
 * It presented Aykroyd largely out of character, speaking as himself rather than promoting a fictional work.
 * It linked celebrity recognition with long-standing UFO community figures and recurring cases familiar to enthusiasts.
 * It conveyed continuity with Aykroyd's broader paranormal interests instead of presenting UFOs as a temporary fascination.
-* It became an accessible introduction for fans who knew Aykroyd from *Ghostbusters* but were unaware of his decades-long involvement with UFO culture.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.netflix.com/title/70049805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: netflix.com">[Netflix+2Variety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-snippet">Watch Dan Aykroyd Unplugged on UFOsDan Aykroyd Unplugged on UFOs. 2005; ⁨TV-PG⁩; Documentary. Spectacular... Documentary, UFO, Un...</span></span></span>
+* It became an accessible introduction for fans who knew Aykroyd from *Ghostbusters* but were unaware of his decades-long involvement with UFO culture.<span class="citation-link-wrap">[Netflix+2Variety]<span class="citation-popover" role="note"><span class="citation-popover-source">netflix.com</span><span class="citation-popover-snippet">Watch Dan Aykroyd Unplugged on UFOsDan Aykroyd Unplugged on UFOs. 2005; ⁨TV-PG⁩; Documentary. Spectacular... Documentary, UFO, Un...</span></span></span>
 
 </div>
 
@@ -742,7 +742,7 @@ That role distinguishes the documentary within the wider landscape of celebrity 
 
 3.<a id="endnote-3"></a>
    Source: netflix.com  
-   Link:<a href="https://www.netflix.com/title/70049805" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/70049805</a>  
+   Link:https://www.netflix.com/title/70049805  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Dan Aykroyd Unplugged on UFOsDan Aykroyd Unplugged on UFOs. 2005; ⁨TV-PG⁩; Documentary. Spectacular... Documentary, UFO, Un...</p></details>
 
 4.<a id="endnote-4"></a>

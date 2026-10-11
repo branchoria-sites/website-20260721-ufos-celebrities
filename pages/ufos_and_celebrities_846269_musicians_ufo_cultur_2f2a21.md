@@ -994,7 +994,7 @@ That historical arc is the useful takeaway: UFOs in music are not one thing. The
 17.<a id="endnote-17"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link:<a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
+   Link:https://en.wikipedia.org/wiki/To_The_Stars_Inc  
 
 18.<a id="endnote-18"></a>
    Source: Wikipedia  

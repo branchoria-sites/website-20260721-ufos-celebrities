@@ -963,7 +963,7 @@ They do not, however, prove extraterrestrial visitation. The strongest public in
 21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link:<a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
+   Link:https://en.wikipedia.org/wiki/To_The_Stars_Inc  
 
 22.<a id="endnote-22"></a>
    Source: Wikipedia  
