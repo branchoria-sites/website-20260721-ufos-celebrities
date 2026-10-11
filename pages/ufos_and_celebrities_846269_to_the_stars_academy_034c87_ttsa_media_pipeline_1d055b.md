@@ -799,7 +799,6 @@ The broader lesson is not that entertainment and investigation are incompatible.
 6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link:https://en.wikipedia.org/wiki/To_The_Stars_Inc  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>To The Stars Inc.The company, which is composed of aerospace, science, and entertainment divisions, has produced [music](&amp;#123;&amp;#123; &#x27;music/&#x27; | relative_url &amp;#125;&amp;#125;) recordings, boo...</p></details>
 
 7.<a id="endnote-7"></a>

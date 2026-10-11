@@ -804,7 +804,6 @@ As a result, discussions of UAP increasingly migrated from fringe entertainment 
 1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link:https://en.wikipedia.org/wiki/To_The_Stars_Inc  
 
 2.<a id="endnote-2"></a>
    Source: Wikipedia  
