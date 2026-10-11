@@ -28,8 +28,8 @@ sidebar_expanded_urls:
 - /ufos-and-celebrities/
 - /mass-sightings/
 nav_short_title: Pilot Eyes
-title: Are Pilots Better UFO Witnesses?
-title_full: Are Pilots Better UFO Witnesses?
+title: "Are Pilots Better UFO Witnesses? (pilot eyes)"
+title_full: "Are Pilots Better UFO Witnesses? (pilot eyes)"
 display_title_short: Pilot Eyes
 display_title: Pilot Eyes
 heading_title: Are Pilots Better UFO Witnesses?

@@ -28,8 +28,8 @@ sidebar_expanded_urls:
 - /ufos-and-celebrities/
 - /nasa-standard/
 nav_short_title: Pilots
-title: Are Pilots Better UFO Witnesses?
-title_full: Are Pilots Better UFO Witnesses?
+title: "Are Pilots Better UFO Witnesses? (pilots)"
+title_full: "Are Pilots Better UFO Witnesses? (pilots)"
 display_title_short: Pilots
 display_title: Pilots
 heading_title: Are Pilots Better UFO Witnesses?
