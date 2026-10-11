@@ -1059,7 +1059,7 @@ Within the wider story of [UFOs and celebrities]({{ 'ufos-and-celebrities/' | re
 23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link:<a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
+   Link:https://en.wikipedia.org/wiki/To_The_Stars_Inc  
 
 24.<a id="endnote-24"></a>
    Source: tothestars.media  

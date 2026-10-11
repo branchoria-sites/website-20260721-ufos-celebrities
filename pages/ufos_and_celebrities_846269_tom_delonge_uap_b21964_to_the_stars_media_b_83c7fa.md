@@ -291,7 +291,7 @@ The significance of TTSA lies less in proving extraordinary claims than in chang
 
 Many celebrities interested in UFOs have relied on personal testimony or media appearances. DeLonge instead attempted to create an organisation that looked like a hybrid of a media studio, research venture and aerospace company.
 
-TTSA launched with divisions dedicated to entertainment, science and aerospace, signalling that UAPs would be discussed across multiple formats rather than through occasional interviews. Company filings and public presentations positioned the organisation as something intended to generate films, books, television programming and research simultaneously, making the institution—not only DeLonge—the continuing public face of the subject.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
+TTSA launched with divisions dedicated to entertainment, science and aerospace, signalling that UAPs would be discussed across multiple formats rather than through occasional interviews. Company filings and public presentations positioned the organisation as something intended to generate films, books, television programming and research simultaneously, making the institution—not only DeLonge—the continuing public face of the subject.<span class="citation-link-wrap">[Wikipedia]<span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
 
 This institutional approach mattered because journalists generally treat organisations differently from individual enthusiasts. Instead of asking whether a rock musician believed in UFOs, reporters could cover:
 
@@ -314,7 +314,7 @@ The shift was largely about presentation. TTSA supplied an organisational framew
 
 TTSA's launch illustrated a carefully constructed blend of credibility signals drawn from different audiences.
 
-DeLonge contributed public recognition and media reach. Alongside him appeared former Pentagon and intelligence figures including Luis Elizondo, Christopher Mellon and aerospace engineer Steve Justice. Their biographies gave reporters recognised institutional affiliations that could be cited independently of DeLonge's celebrity status.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia+2Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
+DeLonge contributed public recognition and media reach. Alongside him appeared former Pentagon and intelligence figures including Luis Elizondo, Christopher Mellon and aerospace engineer Steve Justice. Their biographies gave reporters recognised institutional affiliations that could be cited independently of DeLonge's celebrity status.<span class="citation-link-wrap">[Wikipedia+2Wikipedia]<span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
 
 This combination solved a long-standing problem in UFO journalism. Historically, stories often depended on anonymous witnesses, amateur investigators or enthusiasts. TTSA instead offered:
 
@@ -328,7 +328,7 @@ This combination solved a long-standing problem in UFO journalism. Historically,
 
 </div>
 
-The entertainment component was equally important. Rather than separating [documentaries]({{ 'documentaries/' | relative_url }}), books and fictional storytelling from [advocacy]({{ 'advocacy/' | relative_url }}), TTSA treated them as complementary. Fictional projects such as *Sekret Machines* created audience interest, while non-fiction interviews, television appearances and public presentations encouraged viewers to interpret UAP through military and intelligence narratives rather than purely science-fiction imagery.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
+The entertainment component was equally important. Rather than separating [documentaries]({{ 'documentaries/' | relative_url }}), books and fictional storytelling from [advocacy]({{ 'advocacy/' | relative_url }}), TTSA treated them as complementary. Fictional projects such as *Sekret Machines* created audience interest, while non-fiction interviews, television appearances and public presentations encouraged viewers to interpret UAP through military and intelligence narratives rather than purely science-fiction imagery.<span class="citation-link-wrap">[Wikipedia]<span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">To The Stars Inc</span><span class="citation-popover-snippet">To The Stars Inc</span></span></span>
 
 This was an unusual communications strategy: entertainment generated attention, while institutional voices attempted to legitimise the discussion.
 
@@ -804,7 +804,7 @@ As a result, discussions of UAP increasingly migrated from fringe entertainment 
 1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link:<a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
+   Link:https://en.wikipedia.org/wiki/To_The_Stars_Inc  
 
 2.<a id="endnote-2"></a>
    Source: Wikipedia  
