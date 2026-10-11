@@ -56,8 +56,8 @@ permalink: /not-alien/
 sidebar_expanded_urls:
 - /ufos-and-celebrities/
 nav_short_title: Not Alien
-title: Why Unidentified Does Not Mean Alien
-title_full: Why Unidentified Does Not Mean Alien
+title: "Why Unidentified Does Not Mean Alien (not alien)"
+title_full: "Why Unidentified Does Not Mean Alien (not alien)"
 display_title_short: Not Alien
 display_title: Not Alien
 heading_title: Why Unidentified Does Not Mean Alien
